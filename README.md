@@ -1,4 +1,4 @@
-# notebooks
+# Notebooks
 Notebooks d'introduction liés à certaines présentations.
 
 # Utilisation
